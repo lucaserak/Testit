@@ -1,4 +1,3 @@
-README.md
 TestIt
 
 TestIt is a free platform designed to help people test, troubleshoot, and better understand their technology through simple, reliable, and accessible tools.
