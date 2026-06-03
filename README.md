@@ -24,4 +24,4 @@ Creator
 Lucas Rak
 
 Thank you for supporting TestIt and helping build a community focused on simplicity, transparency, accessibility, and innovation.
-Website Link: [Visit TestIt](https://testit.base44.app)
+[Visit TestIt](https://testit.base44.app)
